@@ -30,7 +30,7 @@ echo "PORT=4000" >> .env
 # 5. Starta servern
 npm run dev
 
-# 6. Starta servern
+# 6. Testa 
 http://localhost:4000
 
 Testa http://localhost:4000/users
