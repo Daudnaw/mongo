@@ -16,7 +16,7 @@ Kopiera och klistra in i terminalen:
 git clone git@github.com:Daudnaw/mongo-api.git
 
 # 2. Skapa databasen med setup.js
-cd mongo
+cd mongo-api
 mongosh < setup.js
 
 # 3. Installera API-beroenden
