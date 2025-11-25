@@ -13,10 +13,10 @@ Kopiera och klistra in i terminalen:
 
 ```bash
 # 1. Klona repot
-git clone git@github.com:Daudnaw/mongo-api.git
+git clone git@github.com:Daudnaw/mongo.git
 
 # 2. Skapa databasen med setup.js
-cd mongo-api
+cd mongo
 mongosh < setup.js
 
 # 3. Installera API-beroenden
