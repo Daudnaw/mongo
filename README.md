@@ -54,3 +54,4 @@ curl -X PUT http://localhost:4000/api/products/PRODUKT_ID \
 -H "Content-Type: application/json" \
 -d '{"name":"Ny Lana","price":1500}'
 ```
+CRUD kan testas i Postman också om det känns mer rimligt.
